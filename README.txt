@@ -1,10 +1,17 @@
 #include<stdio.h>
 
+
 void bubblesort()
 {
 	//
 }
 
+
+
+void quicksort()
+{
+	//
+}
 
 int main()
 {
